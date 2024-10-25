@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ghostfakee
+- 👋 Hi, I’m Lucas Lellis Barros 
 - 👀 I’m interested in game development/IA
 - 🌱 I’m currently learning c++/c#/PYTHON
 
