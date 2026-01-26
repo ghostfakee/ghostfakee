@@ -1,4 +1,5 @@
 - 👋 Hi, I’m Lucas Lellis Barros 
+I'm a software engineer, IA engineer, data science. 
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning c++/PYTHON/ML & DL
 - modder 
