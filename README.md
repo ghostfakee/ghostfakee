@@ -3,7 +3,7 @@ I'm a software engineer, IA engineer, data science.
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning c++/PYTHON/ML & DL
 - modder 
-- I programming in C++, Python, C# and PHP
+- I programming in C++,C,Python, C#, PHP and R
 - mySQL, postgreSQL,SQL server
 - Laravel,pytorch, tensorflow, keras
 <!---
